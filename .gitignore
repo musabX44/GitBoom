@@ -1,0 +1,12 @@
+bin/
+obj/
+
+publish/
+gitboom
+
+.vs/
+.vscode/
+*.user
+*.suo
+
+test-repo/
